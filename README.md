@@ -1,5 +1,5 @@
 # Pin-Cracker
-slow but simple pin cracker that sends the pin to your webhook when cracked, inspired by: Egypt#2325, coded/remade by $$ Easy#3574
+slow but simple pin cracker that sends the pin to your webhook when cracked, inspired by: Egypt#2325, coded/remade by !! qrs v2#7310
 
 # How to use
 Download the cracker.py file
